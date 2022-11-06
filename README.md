@@ -40,4 +40,4 @@ Acalc was designed with the intent that programmers would gain the most from the
     >> show;
     >> graph x * sin(300 / x^2);
     
-![alt Graph output]()
+![alt Graph output](Acalc2/graph.png)
