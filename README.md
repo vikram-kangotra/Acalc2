@@ -8,7 +8,7 @@ Acalc was designed with the intent that programmers would gain the most from the
 
 ## What it can do?
 - Solve long mathematical expressions
-- Supports trig
+- Supports trigonometric and logorithmic functions
 - Do indefinite integration
 - Plot Graphs
 
